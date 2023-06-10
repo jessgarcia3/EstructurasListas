@@ -1,0 +1,16 @@
+C:\Users\Casa\source\repos\Final\Final\bin\Debug\Final.exe.config
+C:\Users\Casa\source\repos\Final\Final\bin\Debug\Final.exe
+C:\Users\Casa\source\repos\Final\Final\bin\Debug\Final.pdb
+C:\Users\Casa\source\repos\Final\Final\obj\Debug\Final.csproj.AssemblyReference.cache
+C:\Users\Casa\source\repos\Final\Final\obj\Debug\Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\Casa\source\repos\Final\Final\obj\Debug\Final.MenuPrincipal.resources
+C:\Users\Casa\source\repos\Final\Final\obj\Debug\Final.frmListaEnlazadaSimple.resources
+C:\Users\Casa\source\repos\Final\Final\obj\Debug\Final.Properties.Resources.resources
+C:\Users\Casa\source\repos\Final\Final\obj\Debug\Final.csproj.GenerateResource.cache
+C:\Users\Casa\source\repos\Final\Final\obj\Debug\Final.csproj.CoreCompileInputs.cache
+C:\Users\Casa\source\repos\Final\Final\obj\Debug\Final.exe
+C:\Users\Casa\source\repos\Final\Final\obj\Debug\Final.pdb
+C:\Users\Casa\source\repos\Final\Final\obj\Debug\Final.frmListaEnlazadaDoble.resources
+C:\Users\Casa\source\repos\Final\Final\obj\Debug\Final.frmListaEnlazadaCircular.resources
+C:\Users\Casa\source\repos\Final\Final\obj\Debug\Final.frmPila.resources
+C:\Users\Casa\source\repos\Final\Final\obj\Debug\Final.frmTablaHash.resources
